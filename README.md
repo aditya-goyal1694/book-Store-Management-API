@@ -16,6 +16,9 @@ This is a RESTful API built using Golang for managing books in a bookstore. It s
 - **Jinzhu Inflection** - A package for handling pluralization of words, useful in REST API design.
 
 ## Project Structure
+
+https://excalidraw.com/#json=YTgBOsikSZXhTscfdtRv3,9oF3-_9u2OINCOaarv-QVg
+
 ```
 bookStoreManagementAPI/
 ├── cmd/main/main.go               # Entry point of the application
